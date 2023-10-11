@@ -25,6 +25,7 @@
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Intellij-663399?style=for-the-badge&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+	<br/>
 	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
